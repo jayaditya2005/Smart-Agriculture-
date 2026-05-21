@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn
+tensorflow
+requests
+Pillow
+xgboost
+protobuf>=7.0.0
